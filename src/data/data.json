@@ -1,0 +1,105 @@
+{
+  "Header": {
+    "title": "ChurroFlow",
+    "paragraph": "An Analytics-Driven Warehousing Solution."
+  },
+  "About": {
+    "paragraph": "ChurroFlow provides innovative and user-friendly technology solutions to help small and medium-sized businesses streamline invoicing and warehouse management. Our analytics-driven platform is built by a team of talented professionals with expertise in AWS, React, PostgreSQL, and Python. We're committed to helping businesses grow and thrive, and we believe that technology should make people's lives easier, not more complicated.",
+    "Why": [
+      "Innovative solutions",
+      "User-friendly platform",
+      "Analytics-driven",
+      "Commitment to business growth"
+    ],
+    "Why2": [
+      "Affordable pricing options",
+      "Dedicated customer support team",
+      "Scalable platform to grow with your business",
+      "Customizable features to fit your unique needs"
+    ]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Fast Delivery",
+      "text": "We offer fast and efficient delivery right to your doorstep and we make shopping easier for you."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Download e-invoices",
+      "text": "You can download your e-invoices as a PDF, CSV, Excel and more all available with a click of a button. "
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Different languages",
+      "text": "Top 100 languages have been hand-selected to make sure our global community has access to our service with no language barriers"
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "International Shipping",
+      "text": "We operate 24/7 globally - all across the world we offer our e-invoicing and warehousing services with universal guidelines. "
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "name": "Competing market rates",
+      "text": "We make sure your business beats others in your product domain so you're the best of the best!"
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Improve E-invoicing process",
+      "text": "Easily prepare over 1000's of invoices in minutes - everything from processing, validation and data analysis is all taken care of by us!"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "High St, Kensington, NSW 2032",
+    "phone": "+61 123 456 789",
+    "email": "info@churroflow.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Time-Saving",
+      "text": "ChurroFlow allows small and medium-sized business owners to streamline their invoicing and warehouse management processes, saving them time that can be spent on other aspects of their business. You can save over 10,000 hours yearly in manual labour by automating processes with ChurroFlow."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Valuable insights",
+      "text": "ChurroFlow offers analytics-driven warehousing solutions that not only manage invoices but also provide valuable insights into warehousing practices. This enables businesses to make data-driven decisions that can lead to increased productivity, space usage, and stock efficiency."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Cutting-edge technology",
+      "text": "ChurroFlow is built on cutting-edge technology such as AWS, React, PostgreSQL, and Python, making it a reliable and scalable platform that is user-friendly. We are consistently updating our stack and upgrading our backend and frontend to accomodate new features and make sure it's customer-driven."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Growing market",
+      "text": "The market for electronic invoices is expected to grow by 80% in 2027, and the global warehouse management market is expected to reach $21.6 billion by 2027. ChurroFlow is well-positioned to capitalize on these trends and help small and medium-sized enterprises compete with larger businesses."
+    }
+  ]
+}
